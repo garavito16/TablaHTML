@@ -1,0 +1,13 @@
+* {
+    text-align: center;
+}
+
+thead {
+    background-color: rgb(52, 58, 62);
+    color: rgb(250, 188, 12);
+}
+
+.tabla {
+    /* display: flex;
+    justify-content: center; */
+}
